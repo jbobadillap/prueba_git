@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HolaMundo {
+public class Calculadora {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("--- Calculadora Básica ---");
